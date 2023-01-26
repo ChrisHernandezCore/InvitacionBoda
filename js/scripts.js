@@ -15,7 +15,7 @@ function PlayAudio(){
 
 
 function initMap() {
-    const myLatLng = { lat: 19.3397248, lng: -99.0694829 };
+    const myLatLng = { lat: 19.339664, lng: -99.067259 };
     const map = new google.maps.Map(document.getElementById("map"), {
       zoom: 16,
       center: myLatLng,
